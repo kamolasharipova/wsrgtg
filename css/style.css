@@ -1,0 +1,10 @@
+.block{
+    height: 100px;
+    background: #000;
+}
+
+.box{
+    background: firebrick;
+    border: 1px solid turquoise;
+    height: 100px;
+}
